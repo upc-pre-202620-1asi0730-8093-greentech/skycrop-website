@@ -46,6 +46,11 @@ document.querySelectorAll('[data-close-dialog]').forEach((control) => {
 
 const copy = {
   "en": {
+    "nav.product": "Product",
+    "product.title": "About the product",
+    "product.description": "Get to know SkyCrop and our approach to crop monitoring. Watch our product presentation on YouTube.",
+    "product.cta": "Watch About the product",
+    "product.note": "Opens YouTube in a new tab.",
     "pageTitle": "SkyCrop | Smarter crop monitoring",
     "pageDescription": "Discover SkyCrop: plot management, drone planning and crop monitoring for farmers and agronomists.",
     "required": "This field is required.",
@@ -136,6 +141,11 @@ const copy = {
     "language": "Language"
   },
   "es": {
+    "nav.product": "Producto",
+    "product.title": "Acerca del producto",
+    "product.description": "Conoce SkyCrop y nuestra propuesta para el monitoreo de cultivos. Mira la presentación del producto en YouTube.",
+    "product.cta": "Ver About the product",
+    "product.note": "Abre YouTube en una nueva pestaña.",
     "pageTitle": "SkyCrop | Monitoreo de cultivos",
     "pageDescription": "Conoce SkyCrop: gestión de parcelas, planificación de drones y monitoreo para agricultores y agrónomos.",
     "required": "Este campo es obligatorio.",
