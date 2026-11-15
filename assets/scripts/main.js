@@ -52,6 +52,16 @@ document.querySelectorAll('[data-close-dialog]').forEach((control) => {
 
 const copy = {
   "en": {
+    "nav.team": "Team",
+    "team.title": "About the team",
+    "team.description": "Meet the GreenTech team behind SkyCrop. Watch our team presentation on YouTube.",
+    "team.cta": "Watch About the team",
+    "team.note": "Opens YouTube in a new tab.",
+    "nav.product": "Product",
+    "product.title": "About the product",
+    "product.description": "Get to know SkyCrop and our approach to crop monitoring. Watch our product presentation on YouTube.",
+    "product.cta": "Watch About the product",
+    "product.note": "Opens YouTube in a new tab.",
     "pageTitle": "SkyCrop | Smarter crop monitoring",
     "pageDescription": "Discover SkyCrop: plot management, drone planning and crop monitoring for farmers and agronomists.",
     "required": "This field is required.",
@@ -142,6 +152,16 @@ const copy = {
     "language": "Language"
   },
   "es": {
+    "nav.team": "Equipo",
+    "team.title": "Acerca del equipo",
+    "team.description": "Conoce al equipo GreenTech detrás de SkyCrop. Mira nuestra presentación del equipo en YouTube.",
+    "team.cta": "Ver About the team",
+    "team.note": "Abre YouTube en una nueva pestaña.",
+    "nav.product": "Producto",
+    "product.title": "Acerca del producto",
+    "product.description": "Conoce SkyCrop y nuestra propuesta para el monitoreo de cultivos. Mira la presentación del producto en YouTube.",
+    "product.cta": "Ver About the product",
+    "product.note": "Abre YouTube en una nueva pestaña.",
     "pageTitle": "SkyCrop | Monitoreo de cultivos",
     "pageDescription": "Conoce SkyCrop: gestión de parcelas, planificación de drones y monitoreo para agricultores y agrónomos.",
     "required": "Este campo es obligatorio.",
